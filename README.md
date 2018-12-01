@@ -1,6 +1,8 @@
+Penta Systems Technology Inc. Big Data Team member
+
 # Positive-Negative-Text-ClassificationMinin
-* in 2018/10/24 ~ 2018/11/30 project
-사용 데이터: 미국 시카고 소재 20개 호텔의 리뷰(댓글) 총 1600개 (긍정: 800개, 부정: 800개)
+- in 2018/10/24 ~ 2018/11/30 project
+- 사용 데이터: 미국 시카고 소재 20개 호텔의 리뷰(댓글) 총 1600개 (긍정: 800개, 부정: 800개)
 # Text Mining 과정
 - 데이터 전처리: 불필일요한 기호, 공백 제거, 알파벳 소문자화, 불용어 제거
 - EDA:Top Down 방식의 용어 빈도 도출 및 Word Cloud 시각화
