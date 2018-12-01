@@ -1,4 +1,5 @@
-Penta Systems Technology Inc. Big Data Team member
+Penta Systems Technology Inc.
+Big Data Team member
 
 # Positive-Negative-Text-ClassificationMinin
 - in 2018/10/24 ~ 2018/11/30 project
