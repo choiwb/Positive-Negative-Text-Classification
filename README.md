@@ -11,6 +11,3 @@ Penta Systems Technology Inc. Big Data Team member
 - LSTM 및 CNN+LSTM 2가지 모델 성능 비교 -> CNN+LSTM이 성능은 상대적으로 떨어지지만 과적합 가능성이 낮고, 속도가 월등히 빠르므로 더 우수
 - 모델 성능지표로, 정확도, 정밀도, 특이도, 민감도의 Confusion Matrix 도출 및, ROC 커브 시각화를 통한 AUC 값 도출
 - 추가적으로, 모델 성능 향상을 위해 추가적인 하이퍼 파라미터 적용 과정 필요.
-# Advanced Process
-- Image Caption 진행 예정
-
